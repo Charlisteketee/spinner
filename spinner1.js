@@ -1,3 +1,4 @@
+// process.stout.write = writes the current spinner animation to the console then overwrites it with the next animation at the beginning
 process.stdout.write('hello from spinner1.js... \rheyyy\n');
 
 setTimeout(() => {
